@@ -1877,4 +1877,10 @@ return [
     'hosting.email.dns_requested' => 'The certificate was requested. It usually arrives within a few minutes.',
     'hosting.email.dns_not_requested' => 'The certificate could not be requested just now. Try again in a few minutes.',
     'hosting.email.dns_after' => 'Once the records are in place, ask for the certificate again. DNS changes can take a few hours to spread.',
+    'cart.free_subdomain' => 'Free subdomain from us',
+    'cart.subdomain_placeholder' => 'yourname',
+    'cart.subdomain_parent_invalid' => 'Choose one of the offered domains.',
+    'cart.subdomain_invalid' => 'Use letters, numbers and hyphens only, without dots.',
+    'cart.subdomain_reserved' => ':name is reserved. Choose another name.',
+    'cart.subdomain_taken' => ':name is already in use. Choose another name.',
 ];

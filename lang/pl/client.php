@@ -1877,4 +1877,10 @@ return [
     'hosting.email.dns_requested' => 'Certyfikat został zamówiony. Zwykle pojawia się w ciągu kilku minut.',
     'hosting.email.dns_not_requested' => 'Nie udało się teraz zamówić certyfikatu. Spróbuj ponownie za kilka minut.',
     'hosting.email.dns_after' => 'Po dodaniu rekordów zamów certyfikat ponownie. Zmiany DNS mogą potrwać kilka godzin.',
+    'cart.free_subdomain' => 'Darmowa subdomena od nas',
+    'cart.subdomain_placeholder' => 'twojanazwa',
+    'cart.subdomain_parent_invalid' => 'Wybierz jedną z oferowanych domen.',
+    'cart.subdomain_invalid' => 'Używaj tylko liter, cyfr i myślników, bez kropek.',
+    'cart.subdomain_reserved' => ':name jest zarezerwowana. Wybierz inną nazwę.',
+    'cart.subdomain_taken' => ':name jest już używana. Wybierz inną nazwę.',
 ];
